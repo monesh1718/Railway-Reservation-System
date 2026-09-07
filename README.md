@@ -1,8 +1,8 @@
-# Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+
+# Reg No: 212225040256
+# Name: s.monesh 
+# Date: 27/8/2026
 
 
 # AIM:
@@ -42,6 +42,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="932" height="923" alt="image" src="https://github.com/user-attachments/assets/68164936-31f5-45f7-bfb8-8d1057f32231" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="895" height="505" alt="image" src="https://github.com/user-attachments/assets/eb6c6bb6-d35f-41dd-99db-546324e5c58c" />
 
 # COMMUNICTION DIAGRAM:
 
@@ -69,6 +71,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
+<img width="956" height="592" alt="image" src="https://github.com/user-attachments/assets/0c1b09c7-e5bd-4065-b525-04ae9ada4a9a" />
 
 # PACKAGE DIAGRAM:
 
@@ -80,6 +83,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="965" height="725" alt="image" src="https://github.com/user-attachments/assets/6774d2c3-6fd9-48b9-af98-a778dfd7eee9" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="618" height="913" alt="image" src="https://github.com/user-attachments/assets/cc91a5ef-1945-49a6-8baa-05d31b858f85" />
 
 
 
@@ -119,6 +124,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="897" height="796" alt="image" src="https://github.com/user-attachments/assets/dffd4860-20b0-4414-862b-a175ef8becbd" />
 
 
 
